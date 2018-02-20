@@ -1,6 +1,6 @@
 {
   "name": "v-vue-alert",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Alert bulmca colors for vue.js",
   "main": "dist/vuealert.common.js",
   "scripts": {
