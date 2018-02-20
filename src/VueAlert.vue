@@ -104,26 +104,30 @@ export default {
 }
 
 .alert-info {
-  color: #31708f;
-  background-color: #d9edf7;
-  border-color: #bce8f1;
+  color: #fff;
+  background-color: #209cee;
+  border-color: #d3d3d3;
+  text-align: center;
 }
 
 .alert-success {
-  color: #3c763d;
-  background-color: #dff0d8;
-  border-color: #d6e9c6;
+  color: #fff;
+  background-color: #23d160;
+  border-color: #d3d3d3;
+  text-align: center;
 }
 
 .alert-warning {
-  color: #8a6d3b;
-  background-color: #fcf8e3;
-  border-color: #faebcc;
+  color: #fff;
+  background-color: #ffdd57;
+  border-color: #e5c74e;
+  text-align: center;
 }
 
 .alert-danger {
-  color: #a94442;
-  background-color: #f2dede;
+  color: #fff;
+  background-color: #ff3860;
   border-color: #ebccd1;
+  text-align: center;
 }
 </style>
