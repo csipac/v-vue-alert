@@ -1,8 +1,8 @@
 {
   "name": "v-vue-alert",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Alert bulmca colors for vue.js",
-  "main": "dist/vuealert.common.js",
+  "main": "dist/vvue-alert.common.js",
   "scripts": {
     "build": "rollup -c config/rollup.config.js",
     "build:example": "NODE_ENV=production node config/build.js",
