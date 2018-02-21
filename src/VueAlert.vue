@@ -104,30 +104,30 @@ export default {
 }
 
 .alert-info {
-  color: #fff;
+  color: #ffffff;
   background-color: #209cee;
-  border-color: #d3d3d3;
+  border-color: #1d8cd6;
   text-align: center;
 }
 
 .alert-success {
-  color: #fff;
+  color: #ffffff;
   background-color: #23d160;
-  border-color: #d3d3d3;
+  border-color: #1fbc56;
   text-align: center;
 }
 
 .alert-warning {
-  color: #fff;
+  color: #ffffff;
   background-color: #ffdd57;
   border-color: #e5c74e;
   text-align: center;
 }
 
 .alert-danger {
-  color: #fff;
+  color: #ffffff;
   background-color: #ff3860;
-  border-color: #ebccd1;
+  border-color: #e53256;
   text-align: center;
 }
 </style>
