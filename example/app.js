@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import VueAlert from '../dist/vuealert.common.js'
+import VueAlert from '../dist/vvue-alert.common.js'
 import Example from './Example.vue'
 
 /* eslint-env node */
