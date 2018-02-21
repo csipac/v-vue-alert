@@ -8,3 +8,4 @@ circle.yml
 package-lock.json
 rollup.config.js
 yarn.lock
+coverage/
