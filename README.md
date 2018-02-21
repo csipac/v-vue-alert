@@ -29,9 +29,41 @@ new Vue({
   components: { App }
 })
 
-
 ```
-VExample.vue
+For an example of functionality
+
+inside the file
+/src/App.vue
+
+```html
+<template>
+    <div id="app">
+        <vue-alert></vue-alert>
+        <vexample></vexample>
+    </div>
+</template>
+
+<script>
+import Vexample from './Vexample'
+
+export default {
+  components: {
+    Vexample
+  },
+  mounted () {
+    this.$alert.success({ message: 'Component mounted!' })
+  }
+}
+</script>
+
+<style>
+.vue-alert {
+  margin-top: 10px;
+}
+</style>
+```
+Create sample component  
+Vexample.vue
 
 ```html
 <template>
